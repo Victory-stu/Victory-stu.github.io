@@ -1,8 +1,7 @@
 # Myblogs
 
 
-> 我要开始装逼了
+> [滚动鼠标](#introduction)
+>
+> [我的工作台 - Github](https://github.com/thoughtroad/Victory-stu.github.io/tree/master)
 
-
-[CSDN](https://blog.csdn.net/m0_37965018)
-[滚动鼠标](#introduction)
